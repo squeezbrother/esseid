@@ -1,0 +1,5 @@
+/* Setting a default layout using CSS Grid */
+body {
+  display: grid;
+  /* Additional grid properties can be defined here */
+}
